@@ -13,7 +13,7 @@ Installation
 
     Clone this repository to your local machine.
     Ensure you have Python 3 installed.
-    Install dependencies using pip install -r requirements.txt.
+    Install dependencies writen in requirements.txt.
 
 Usage
 
