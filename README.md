@@ -17,7 +17,7 @@ Installation
 
 Usage
 
-    Run the port_scanner.py script.
+    Run the proyect.py script.
     Enter the IP address you wish to scan when prompted.
     Wait for the scan to complete and observe the results in the console.
 
