@@ -1,0 +1,14 @@
+# Dependencies for the port scanning project
+
+# External libraries
+colorama==0.4.4  # Library for printing colored text in the terminal
+
+# Python standard modules
+asyncio          # Module for asynchronous programming in Python
+platform         # Module for accessing information about the operating system
+concurrent       # Module for executing concurrent tasks in Python
+re               # Module for regular expressions in Python
+socket           # Module for working with sockets in Python
+subprocess       # Module for creating subprocesses in Python
+sys              # Module that provides access to system-related variables and functions
+
